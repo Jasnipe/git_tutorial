@@ -1,3 +1,3 @@
 console.log('config.js');
-console.log("Version 2");
-console.log("This is the second verison of GIT");
+console.log("Version 3");
+console.log("This is the third verison of GIT");
